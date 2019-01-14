@@ -1,0 +1,6 @@
+\documentclass{article}
+\usepackage{Sweave}
+\begin{document}
+\SweaveOpts{concordance=TRUE}
+Hola
+\end{document}
